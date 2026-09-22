@@ -12,7 +12,7 @@
 | **Номер варіанта** | **20** |
 | **Домен варіанта** | **archlinux.org, haproxy.org, videolan.org** |
 | **Середовище виконання** | **Windows** |
-| **Версія curl** | *(вивід `curl --version`, перший рядок)* |
+| **Версія curl** | **curl 8.21.0 (Windows) libcurl/8.21.0 Schannel zlib/1.3.2 WinIDN WinLDAP** |
 | **Дата виконання** | **21.09.26** |
 
 ---
